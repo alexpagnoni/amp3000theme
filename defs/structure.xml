@@ -1,0 +1,10 @@
+<?xml version='1.0'?>
+<structure>
+
+    <catalog	name="amp_misc_amp3000theme"	file="amp_misc_amp3000theme.catalog"/>
+    <catalog    name="amp_misc_amp3000theme_it"    file="amp_misc_amp3000theme_it.catalog"/>
+    <huitheme	name="amp3000"	file="amp3000.huitheme"	catalog="amp_misc_amp3000theme"/>
+    <huicolorsset	name="amp3000"	file="amp3000.huicolorsset"	catalog="amp_misc_amp3000theme"/>
+    <huistyle	name="amp3000"	file="amp3000.huistyle"	catalog="amp_misc_amp3000theme"/>
+
+</structure>
